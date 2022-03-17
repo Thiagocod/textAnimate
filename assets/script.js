@@ -65,7 +65,6 @@ class Particle{
     }
 
 }
-console.log(textCoordinates.data);
 function init(){
     particleArray = [];
     for (let y = 0, y2 = textCoordinates.height; y < y2; y++){
@@ -79,7 +78,6 @@ function init(){
     }
 }
 init();
-console.log(particleArray);
 function animate(){
     ctx.clearRect(0,0, canvas.width, canvas.height);
     for (let i = 0; i < particleArray.length; i++){
