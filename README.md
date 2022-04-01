@@ -1,6 +1,6 @@
 <h1> Text Animation </h1>
 
-## Contrução do projeto:
+## Project construction:
 
 Using canvas and javaScript programming, an image formed by hundreds of circles connected by lines from a text was created.
 
