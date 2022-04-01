@@ -19,7 +19,7 @@ window.addEventListener('mousemove', function(event){
 });
 ctx.fillStyle = 'white';
 ctx.font = '20px Verdana';
-ctx.fillText('A', 0, 30);
+ctx.fillText('TGVP', 0, 30);
 const textCoordinates = ctx.getImageData(0,0,100,100);
 
 class Particle{
