@@ -26,7 +26,7 @@ The animation is made from the movement of the mouse, with a complex mathematica
   
   ![TextAnimation](https://user-images.githubusercontent.com/65191024/161281490-5b73ea87-19c4-4181-81ff-228072f72399.gif)
 
-## Project based on a video by youtuber Frank for study.
+### Project based on a video by youtuber Frank for study.
 
 
 Frank's laboratory:
