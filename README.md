@@ -28,8 +28,9 @@ The animation is made from the movement of the mouse, with a complex mathematica
 
 ### Project based on a video by youtuber Frank for study.
 
-
 Frank's laboratory:
 https://www.youtube.com/channel/UCEqc149iR-ALYkGM6TG-7vQ
+
+## <a href="https://thiagocod.github.io/textAnimate/">Click here for demo<a>
 
 
